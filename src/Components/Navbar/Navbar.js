@@ -28,7 +28,11 @@ class Navbarclass extends Component {
               </Nav.Link>
             </Nav>
             <Nav className="navbarwords">
-              <Nav.Link className="navbarwords" href="/sights">
+              <Nav.Link
+                className="navbarwords"
+                target="_blank"
+                href="https://vsco.co/liamhildreth/gallery"
+              >
                 SIGHTS
               </Nav.Link>
             </Nav>

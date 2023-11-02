@@ -385,7 +385,7 @@ class words extends Component {
                     <h5 class="card-title">
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1JzPugCIKrRUUw_gsIU7Q6PdblB-yuB3V/view?usp=sharing"
+                        href="http://www.google.com"
                         style={{ textDecoration: "none" }}
                       >
                         Black Box

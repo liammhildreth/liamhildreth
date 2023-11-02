@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+/*import React, { Component } from "react";
 
 import { SlideshowLightbox } from "lightbox.js-react";
 import "lightbox.js-react/dist/index.css";
@@ -26,4 +26,4 @@ class Photos extends Component {
     );
   }
 }
-export default Photos;
+export default Photos;*/
