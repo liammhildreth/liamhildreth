@@ -87,7 +87,7 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://s.studiobinder.com/wp-content/uploads/2020/05/Plato_s-Allegory-of-the-Cave.pdf"
+                        href="https://www.indwes.edu/academics/jwhc/_files/plato_s%20allegory%20of%20the%20cave.pdf"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
@@ -103,7 +103,7 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.sanjuan.edu/cms/lib8/CA01902727/Centricity/Domain/3981/Death%20of%20A%20Moth-Virginia%20Woolf%20copy.pdf"
+                        href="https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
@@ -143,6 +143,70 @@ class words extends Component {
                       </a>
                     </h5>
                     <p class="body">By Bruce Pardy</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Letter From Birmingham Jail
+                      </a>
+                    </h5>
+                    <p class="body">By Martin Luther King Jr.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://paulgraham.com/love.html"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        How to Do What You Love
+                      </a>
+                    </h5>
+                    <p class="body">By Paul Graham</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.archives.gov/founding-docs/declaration-transcript"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Decleration of Independence
+                      </a>
+                    </h5>
+                    <p class="body">By Thomas Jefferson</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://paulgraham.com/useful.html"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        How to Write Usefully 
+                      </a>
+                    </h5>
+                    <p class="body">By Paul Graham</p>
                   </div>
                 </div>
               </div>
@@ -282,7 +346,6 @@ class words extends Component {
               </div>
             </div>
             <br />
-
             <div class="row">
               <div class="col">
                 <div class="card h-100 border-light">
@@ -510,7 +573,7 @@ class words extends Component {
                           target="_blank"
                           href="https://drive.google.com/file/d/1m_M1ogfmv6etTJvbL---UX93VwLvk0Kp/view?usp=sharing"
                           style={{ textDecoration: "none" }}
-                          >
+                        >
                           read
                         </a>
                       </div>
@@ -519,7 +582,7 @@ class words extends Component {
                           target="_blank"
                           href="https://www.youtube.com/watch?v=WLuPZiyE4Rk"
                           style={{ textDecoration: "none" }}
-                          >
+                        >
                           watch
                         </a>
                       </div>
