@@ -167,11 +167,11 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://paulgraham.com/love.html"
+                        href="https://paulgraham.com/work.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        How to Do What You Love
+                        What Doesn't Seem Like Work
                       </a>
                     </h5>
                     <p class="body">By Paul Graham</p>
@@ -479,7 +479,7 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">capella</div>
+                  <div class="card-header border-light">ideas</div>
 
                   <div class="card-body">
                     <h5 class="card-title">
@@ -500,7 +500,7 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">capella</div>
+                  <div class="card-header border-light">ideas</div>
 
                   <div class="card-body">
                     <h5 class="card-title">
@@ -521,7 +521,7 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">fun</div>
+                  <div class="card-header border-light">ideas</div>
 
                   <div class="card-body">
                     <h5 class="card-title">
@@ -620,10 +620,10 @@ class words extends Component {
                         href="https://drive.google.com/file/d/1OEXBnvgYgdkwzkuOUBKFjq1qG5gnBrpm/view?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        Advertisement for Trinity College School
+                        TCS ad
                       </a>
                     </h5>
-                    <p class="body">A project completed for grade 12 business. </p>
+                    <p class="body">A grade 12 business project. </p>
                   </div>
                 </div>
               </div>
