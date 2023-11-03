@@ -448,13 +448,13 @@ class words extends Component {
                     <h5 class="card-title">
                       <a
                         target="_blank"
-                        href="https://www.google.com/search?q=liam+hildreth&sca_esv=578964369&sxsrf=AM9HkKndLD-LwHQqtIt0v4vw7JE3J57TlA%3A1698963836198&source=hp&ei=fCFEZcPaCfSG0PEP7vizuAo&iflsig=AO6bgOgAAAAAZUQvjO6m6O5yeaTnRM2odYpHjIOhtjCu&ved=0ahUKEwjDiMO_raaCAxV0AzQIHW78DKcQ4dUDCAw&uact=5&oq=liam+hildreth&gs_lp=Egdnd3Mtd2l6Ig1saWFtIGhpbGRyZXRoMgcQIxiKBRgnMggQABiKBRiGAzIIEAAYigUYhgNI2hdQAFioFXAAeACQAQCYAb0BoAHJDKoBBDEuMTK4AQPIAQD4AQHCAgQQIxgnwgIOEAAYigUYsQMYgwEYkQLCAggQABiKBRiRAsICERAuGIMBGMcBGLEDGNEDGIAEwgIOEC4YgAQYsQMYxwEY0QPCAhEQLhiABBixAxiDARjHARjRA8ICCxAuGIoFGLEDGIMBwgIFEAAYgATCAgcQABiKBRhDwgILEC4YgwEYsQMYgATCAgsQABiABBixAxiDAcICCxAAGIoFGLEDGJECwgIKEAAYigUYsQMYQ8ICDRAuGIoFGLEDGIMBGEPCAgoQLhiKBRixAxhDwgIIEC4YgAQYsQPCAgsQLhiABBixAxiDAcICCBAAGIAEGLEDwgIIEC4YsQMYgATCAgUQLhiABMICBhAAGBYYHsICCBAAGBYYHhgK&sclient=gws-wiz"
+                        href="https://www.google.com/search?q=what+is+censorship&sca_esv=578964369&sxsrf=AM9HkKmqM64NemNFI3DQhv_mLz2ab-YIVw%3A1698987328455&ei=QH1EZcG2G52U5OMP4qyMYA&oq=what+is+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCHdoYXQgaXMgKgIIADIHECMYigUYJzIEECMYJzIIEAAYigUYkQIyCBAAGIoFGJECMggQABiKBRiRAjIFEAAYgAQyCxAAGIoFGLEDGIMBMggQABiABBixAzILEAAYigUYsQMYgwEyCBAAGIAEGLEDSOAaUO8HWPEPcAR4AJABAJgBZ6ABuQWqAQM1LjO4AQPIAQD4AQHCAggQABiABBiwA8ICCxAAGIoFGIYDGLADwgILEC4YgAQYsQMYgwHCAgsQABiABBixAxiDAcICERAuGIAEGLEDGIMBGMcBGNEDwgIHEAAYigUYQ8ICCBAuGIAEGLEDwgIIEAAYgAQYyQPCAggQABiKBRiSA-IDBBgBIEGIBgGQBgQ&sclient=gws-wiz-serp"
                         style={{ textDecoration: "none" }}
                       >
                         Black Box
                       </a>
                     </h5>
-                    <p class="body"> A short story. </p>
+                    <p class="body"> A short story I aim to expand into a novel eventually. </p>
                   </div>
                 </div>
               </div>
@@ -595,7 +595,7 @@ class words extends Component {
                   <div class="card-header border-light">high school</div>
                   <div class="card-body">
                     <h5 class="card-title">
-                      {" "}
+                     
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/19jZMAXso3YVrTOFe28RAhvKPLDLtKxXW/view?usp=sharing"
@@ -606,6 +606,24 @@ class words extends Component {
                       </a>
                     </h5>
                     <p class="body">Final paper for grade 12 kinesiology. </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-header border-light">high school</div>
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      
+                      <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1OEXBnvgYgdkwzkuOUBKFjq1qG5gnBrpm/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        Advertisement for Trinity College School
+                      </a>
+                    </h5>
+                    <p class="body">A project completed for grade 12 business. </p>
                   </div>
                 </div>
               </div>
