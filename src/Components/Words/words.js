@@ -357,7 +357,7 @@ class words extends Component {
                       <div class="col">
                         <a
                           href="https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/"
-                          class="btn btn-light"
+                          style={{ textDecoration: "none" }}
                           target="_blank"
                         >
                           read
@@ -367,7 +367,7 @@ class words extends Component {
                         <a
                           target="_blank"
                           href="https://www.youtube.com/watch?v=nk9_1oww4FY"
-                          class="btn btn-dark"
+                          style={{ textDecoration: "none" }}
                         >
                           listen
                         </a>
@@ -386,7 +386,7 @@ class words extends Component {
                       <div class="col">
                         <a
                           href="https://www.gse.harvard.edu/ideas/news/16/05/lift"
-                          class="btn btn-light"
+                          style={{ textDecoration: "none" }}
                           target="_blank"
                         >
                           read
@@ -396,7 +396,7 @@ class words extends Component {
                         <a
                           target="_blank"
                           href="https://www.youtube.com/watch?v=9XGUpKITeJM"
-                          class="btn btn-dark"
+                          style={{ textDecoration: "none" }}
                         >
                           watch
                         </a>
@@ -415,7 +415,7 @@ class words extends Component {
                       <div class="col">
                         <a
                           href="https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address"
-                          class="btn btn-light"
+                          style={{ textDecoration: "none" }}
                           target="_blank"
                         >
                           read
@@ -425,7 +425,7 @@ class words extends Component {
                         <a
                           target="_blank"
                           href="https://www.youtube.com/watch?v=OyBNmecVtdU"
-                          class="btn btn-dark"
+                          style={{ textDecoration: "none" }}
                         >
                           watch
                         </a>
