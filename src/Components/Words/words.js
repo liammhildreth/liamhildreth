@@ -183,14 +183,14 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.archives.gov/founding-docs/declaration-transcript"
+                        href="https://paulgraham.com/know.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Decleration of Independence
+                        How You Know
                       </a>
                     </h5>
-                    <p class="body">By Thomas Jefferson</p>
+                    <p class="body">By Paul Graham</p>
                   </div>
                 </div>
               </div>
