@@ -4,6 +4,7 @@ import "./words.css";
 import lecture from "../../lastlecture.jpg";
 import gods from "../../againstthegods.jpg";
 import msfm from "../../msfm.jpg";
+import { colors } from "@material-ui/core";
 
 class words extends Component {
   render() {
@@ -87,14 +88,14 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.indwes.edu/academics/jwhc/_files/plato_s%20allegory%20of%20the%20cave.pdf"
+                        href="https://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        The Allegory of the Cave
+                        The Myth of Sisyphus
                       </a>
                     </h5>
-                    <p class="body">By Plato</p>
+                    <p class="body">By Albert Camus</p>
                   </div>
                 </div>
               </div>
@@ -103,17 +104,20 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf"
+                        href="https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        The Death of the Moth
+                        Letter From Birmingham Jail
                       </a>
                     </h5>
-                    <p class="body">By Virginia Woolf</p>
+                    <p class="body">By Martin Luther King Jr.</p>
                   </div>
                 </div>
               </div>
+            </div>
+            <br />
+            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-4 row-cols-xl-4 g-4">
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -151,17 +155,36 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html"
+                        href="https://www.indwes.edu/academics/jwhc/_files/plato_s%20allegory%20of%20the%20cave.pdf"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Letter From Birmingham Jail
+                        The Allegory of the Cave
                       </a>
                     </h5>
-                    <p class="body">By Martin Luther King Jr.</p>
+                    <p class="body">By Plato</p>
                   </div>
                 </div>
               </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        The Death of the Moth
+                      </a>
+                    </h5>
+                    <p class="body">By Virginia Woolf</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <br />
+            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 g-4">
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -203,7 +226,7 @@ class words extends Component {
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        How to Write Usefully 
+                        How to Write Usefully
                       </a>
                     </h5>
                     <p class="body">By Paul Graham</p>
@@ -284,18 +307,17 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.poetryfoundation.org/poems/45392/ulysses"
+                        href="https://allpoetry.com/The-Palace-of-Art"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Ulysses
+                        The Palace of Art
                       </a>
                     </h5>
                     <p class="body">By Alfred Lord Tennyson</p>
                   </div>
                 </div>
               </div>
-
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -317,11 +339,11 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://allpoetry.com/The-Palace-of-Art"
+                        href="https://www.poetryfoundation.org/poems/45392/ulysses"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        The Palace of Art
+                        Ulysses
                       </a>
                     </h5>
                     <p class="body">By Alfred Lord Tennyson</p>
@@ -346,7 +368,7 @@ class words extends Component {
               </div>
             </div>
             <br />
-            <div class="row">
+            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 g-4">
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -405,11 +427,12 @@ class words extends Component {
                   </div>
                 </div>
               </div>
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">Farewell Address </h5>
-                    <p class="body">Dwight D. Eisenhower</p>
+                    <h5 class="card-title">Fairwell Address</h5>
+                    <p class="body">Dwight D. Eisenhowerr</p>
 
                     <div class="row">
                       <div class="col">
@@ -427,15 +450,62 @@ class words extends Component {
                           href="https://www.youtube.com/watch?v=OyBNmecVtdU"
                           style={{ textDecoration: "none" }}
                         >
-                          watch
+                          listen
                         </a>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.youtube.com/watch?v=RBGJ8uyAT24"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Ways of Liberation
+                      </a>
+                    </h5>
+                    <p class="body">By Alan Watts</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/watch?v=4KOOmA_YUMo"
+                        style={{ textDecoration: "none" }}
+                      >
+                        What Do You Desire?
+                      </a>
+                    </h5>
+                    <p class="body">By Alan Watts</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.youtube.com/watch?v=DV4EDr1cM-Q"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        On Yoga
+                      </a>
+                    </h5>
+                    <p class="body">By Alan Watts</p>
+                  </div>
+                </div>
+              </div>
             </div>
-            <br />
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <br />
@@ -454,7 +524,9 @@ class words extends Component {
                         Black Box
                       </a>
                     </h5>
-                    <p class="body"> A short story I aim to expand into a novel eventually. </p>
+                    <p class="body">
+                      A short story I aim to expand into a novel eventually.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -467,7 +539,7 @@ class words extends Component {
                     <h5 class="card-title">
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1JzPugCIKrRUUw_gsIU7Q6PdblB-yuB3V/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1YH-udfZZXhjUP2IDqrp0cVvrgMB1fkSR/view?usp=drive_link"
                         style={{ textDecoration: "none" }}
                       >
                         Butterflies
@@ -490,7 +562,7 @@ class words extends Component {
                       >
                         Capella
                       </a>
-                    </h5>{" "}
+                    </h5>
                     <p class="body">
                       An analysis of the issues facing the web today and a plan
                       for a potential solution.
@@ -595,7 +667,6 @@ class words extends Component {
                   <div class="card-header border-light">high school</div>
                   <div class="card-body">
                     <h5 class="card-title">
-                     
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/19jZMAXso3YVrTOFe28RAhvKPLDLtKxXW/view?usp=sharing"
@@ -614,7 +685,6 @@ class words extends Component {
                   <div class="card-header border-light">high school</div>
                   <div class="card-body">
                     <h5 class="card-title">
-                      
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1OEXBnvgYgdkwzkuOUBKFjq1qG5gnBrpm/view?usp=sharing"
