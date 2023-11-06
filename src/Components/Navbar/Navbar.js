@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./Navbar.css";
 import logo from "../../lh.png";
 import x from "../../x.avif";
+import y from "../../green_spotify.png";
 import { Navbar, Nav, Container } from "react-bootstrap";
 
 class Navbarclass extends Component {
@@ -11,7 +12,7 @@ class Navbarclass extends Component {
         <Container>
           <Navbar.Brand href="/home">
             <img
-              width="100px"
+              width="90px"
               className="d-inline-block align-top"
               src={logo}
               alt="logo"
@@ -43,6 +44,15 @@ class Navbarclass extends Component {
                 href="http://x.com/liamhildreth"
               >
                 <img width="30px" src={x} alt="logo"></img>
+              </Nav.Link>
+            </Nav>
+            <Nav className="navbarwords">
+              <Nav.Link
+                className="navbarwords"
+                target="_blank"
+                href="https://open.spotify.com/user/22dz6usw3ktrhb4vbwarikfky?si=3511ba5bdacd441c"
+              >
+                <img width="25px" src={y} alt="logo"></img>
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>

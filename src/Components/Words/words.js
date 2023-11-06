@@ -17,55 +17,6 @@ class words extends Component {
         <br />
         <div className="row">
           <div className="col-12 col-md-6 pe-4 border-right border-md">
-            <br />
-            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
-              <div class="col">
-                <div class="card">
-                  <img
-                    src={breath}
-                    class="card-img-top"
-                    width={100}
-                    height={200}
-                    alt="..."
-                  ></img>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card">
-                  <img
-                    src={gods}
-                    class="card-img-top"
-                    width={100}
-                    height={200}
-                    alt="..."
-                  ></img>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card">
-                  <img
-                    src={lecture}
-                    class="card-img-top"
-                    width={100}
-                    height={200}
-                    alt="..."
-                  ></img>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card">
-                  <img
-                    src={msfm}
-                    class="card-img-top"
-                    width={100}
-                    height={200}
-                    alt="..."
-                  ></img>
-                </div>
-              </div>
-            </div>
-            <br />
-            <h5 className="titles text-center vertical-align text-lg-start"></h5>
             <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 g-4">
               <div class="col">
                 <div class="card h-100 border-light">
@@ -506,35 +457,61 @@ class words extends Component {
                 </div>
               </div>
             </div>
+            <br />
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
+            
+            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
+              <div class="col">
+                <div class="card">
+                  <img
+                    src={breath}
+                    class="card-img-top"
+                    width={100}
+                    height={200}
+                    alt="..."
+                  ></img>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card">
+                  <img
+                    src={gods}
+                    class="card-img-top"
+                    width={100}
+                    height={200}
+                    alt="..."
+                  ></img>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card">
+                  <img
+                    src={lecture}
+                    class="card-img-top"
+                    width={100}
+                    height={200}
+                    alt="..."
+                  ></img>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card">
+                  <img
+                    src={msfm}
+                    class="card-img-top"
+                    width={100}
+                    height={200}
+                    alt="..."
+                  ></img>
+                </div>
+              </div>
+            </div>
             <br />
             <div class="row row-cols-1  row-cols-lg-2  g-4">
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-header border-light">art</div>
-
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        target="_blank"
-                        href="https://www.google.com/search?q=what+is+censorship&sca_esv=578964369&sxsrf=AM9HkKmqM64NemNFI3DQhv_mLz2ab-YIVw%3A1698987328455&ei=QH1EZcG2G52U5OMP4qyMYA&oq=what+is+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCHdoYXQgaXMgKgIIADIHECMYigUYJzIEECMYJzIIEAAYigUYkQIyCBAAGIoFGJECMggQABiKBRiRAjIFEAAYgAQyCxAAGIoFGLEDGIMBMggQABiABBixAzILEAAYigUYsQMYgwEyCBAAGIAEGLEDSOAaUO8HWPEPcAR4AJABAJgBZ6ABuQWqAQM1LjO4AQPIAQD4AQHCAggQABiABBiwA8ICCxAAGIoFGIYDGLADwgILEC4YgAQYsQMYgwHCAgsQABiABBixAxiDAcICERAuGIAEGLEDGIMBGMcBGNEDwgIHEAAYigUYQ8ICCBAuGIAEGLEDwgIIEAAYgAQYyQPCAggQABiKBRiSA-IDBBgBIEGIBgGQBgQ&sclient=gws-wiz-serp"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Black Box
-                      </a>
-                    </h5>
-                    <p class="body">
-                      A short story I aim to expand into a novel eventually.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-header border-light">art</div>
-
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
@@ -701,7 +678,6 @@ class words extends Component {
             <br />
           </div>
         </div>
-        <br />
       </div>
     );
   }
