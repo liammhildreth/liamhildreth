@@ -189,11 +189,11 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://paulgraham.com/work.html"
+                        href="https://paulgraham.com/talk.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        What Doesn't Seem Like Work
+                        Write Like You Talk
                       </a>
                     </h5>
                     <p class="body">By Paul Graham</p>
@@ -221,11 +221,11 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://paulgraham.com/useful.html"
+                        href="https://paulgraham.com/work.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        How to Write Usefully
+                        What Doesn't Seem Like Work
                       </a>
                     </h5>
                     <p class="body">By Paul Graham</p>
@@ -516,7 +516,7 @@ class words extends Component {
                     <h5 class="card-title">
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1dUPD_4pwVcq7rMPQEC5O3IcjSnKeoXVd/view?usp=drive_link"
+                        href="https://drive.google.com/file/d/1dUPD_4pwVcq7rMPQEC5O3IcjSnKeoXVd/view?usp=F"
                         style={{ textDecoration: "none" }}
                       >
                         Black Box
