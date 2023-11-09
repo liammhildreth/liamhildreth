@@ -578,7 +578,7 @@ class words extends Component {
                       </a>
                     </h5>
                     <p class="body">
-                      An attempt at a collection of poems dancing between early modern english and english.
+                      A collection of poems aiming to dance between early modern english and english.
                     </p>
                   </div>
                 </div>
