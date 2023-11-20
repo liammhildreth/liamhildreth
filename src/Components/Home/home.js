@@ -11,7 +11,7 @@ class home extends Component{
         <br />
         <br />
         <br />
-        <img width = "300" src={lsd}></img>
+        <img width = "400" src={lsd}></img>
         <br />
         <br />
     </div>

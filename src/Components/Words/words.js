@@ -138,7 +138,7 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678365"
+                        href="https://deliverypdf.ssrn.com/delivery.php?ID=433000088031099030111106074095017124028072042008084011092127082113084029108097082005098003032035018116033081110105112021083083106080012039033091064105119068025061077034073089086096103086070081107090075076065010000097005086065031112125067072101086&EXT=pdf&INDEX=TRUE"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
@@ -322,7 +322,7 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://kalliope.org/en/text/tennyson1999063013"
+                        href="https://d.lib.rochester.edu/camelot/text/tennyson-epilogue-to-the-queen"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
@@ -354,11 +354,12 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://allpoetry.com/poem/14326903-The-Two-Voices-by-Alfred-Lord-Tennyson"
+                        href="https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        The Two Voices
+                        The Charge of the Light Brigade
+
                       </a>
                     </h5>
                     <p class="body">By Alfred Lord Tennyson</p>
@@ -449,7 +450,7 @@ class words extends Component {
                           href="https://www.youtube.com/watch?v=OyBNmecVtdU"
                           style={{ textDecoration: "none" }}
                         >
-                          listen
+                          watch
                         </a>
                       </div>
                     </div>
@@ -509,6 +510,23 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
+            <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-header border-light">open letter</div>
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1Sed4X--VVtxu4Z9lHIVF3kPJeiKcjyAE/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        Letter to Santa
+                      </a>
+                    </h5>
+                    <p class="body"><i>O Captain! my Captain!</i></p>
+                  </div>
+                </div>
+              </div>
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-header border-light">art</div>
@@ -551,14 +569,15 @@ class words extends Component {
                     <h5 class="card-title">
                       <a
                         target="_blank"
-                        href=" https://drive.google.com/file/d/18RvDbLtFOT3k4zwMVHQVcNav-kpsYk28/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1AiBVQZU0csqc-zQt93MP-VBH1_l1twJg/view?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        Level High
+                        Butterflies
                       </a>
                     </h5>
                     <p class="body">
-                      Poem about tree planting in High Level, Alberta.
+                      A collection of poems aiming to dance between early modern
+                      english and english.
                     </p>
                   </div>
                 </div>
@@ -571,14 +590,14 @@ class words extends Component {
                     <h5 class="card-title">
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1AiBVQZU0csqc-zQt93MP-VBH1_l1twJg/view?usp=sharing"
+                        href=" https://drive.google.com/file/d/18RvDbLtFOT3k4zwMVHQVcNav-kpsYk28/view?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        Butterflies
+                        Level High
                       </a>
                     </h5>
                     <p class="body">
-                      A collection of poems aiming to dance between early modern english and english.
+                      Poem about tree planting in High Level, Alberta.
                     </p>
                   </div>
                 </div>
@@ -598,7 +617,7 @@ class words extends Component {
                       </a>
                     </h5>
                     <p class="body">
-                      An analysis of the issues facing the web today and a plan
+                      An analysis of the issues facing the web today and a idea
                       for a potential solution.
                     </p>
                   </div>
@@ -660,7 +679,6 @@ class words extends Component {
                         Through the Great Recession and COVID-19 Pandemic
                       </a>
                     </h5>
-                    <p class="body"> </p>
                   </div>
                 </div>
               </div>
@@ -744,11 +762,13 @@ class words extends Component {
                         Yowl
                       </a>
                     </h5>
-                    <p class="body">A poem for grade 12 english aiming to beat the drums of Howl by Allen Ginsberg. </p>
+                    <p class="body">
+                      A poem for grade 12 english aiming to beat the drums of
+                      Howl by Allen Ginsberg.{" "}
+                    </p>
                   </div>
                 </div>
               </div>
-              
             </div>
             <br />
           </div>
