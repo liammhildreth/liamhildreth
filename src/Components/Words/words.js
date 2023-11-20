@@ -306,11 +306,12 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://allpoetry.com/The-Palace-of-Art"
+                        href="https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        The Palace of Art
+                        The Charge of the Light Brigade
+
                       </a>
                     </h5>
                     <p class="body">By Alfred Lord Tennyson</p>
@@ -354,18 +355,18 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade"
+                        href="https://allpoetry.com/The-Palace-of-Art"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        The Charge of the Light Brigade
-
+                        The Palace of Art
                       </a>
                     </h5>
                     <p class="body">By Alfred Lord Tennyson</p>
                   </div>
                 </div>
               </div>
+              
             </div>
             <br />
             <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 g-4">
