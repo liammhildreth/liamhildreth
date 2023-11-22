@@ -535,6 +535,22 @@ class words extends Component {
                     <h5 class="card-title">
                       <a
                         target="_blank"
+                        href="https://drive.google.com/file/d/1i_KzyXTipq4J-T9s9RWtwCtAphVyhitg/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        CV
+                      </a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-header border-light">art</div>
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        target="_blank"
                         href="https://drive.google.com/file/d/1dUPD_4pwVcq7rMPQEC5O3IcjSnKeoXVd/view?usp=F"
                         style={{ textDecoration: "none" }}
                       >
