@@ -188,7 +188,7 @@ class words extends Component {
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Matthew 5:3–12
+                        Matthew 5:1–12
                       </a>
                     </h5>
                     <p class="body">Bible, Revised Standard Version</p>
