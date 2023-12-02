@@ -119,6 +119,54 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
+                        href="https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        The Death of the Moth
+                      </a>
+                    </h5>
+                    <p class="body">By Virginia Woolf</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=citation&book=Matthew&chapno=5&startverse=1&endverse=12#:~:text=Matt.,5%20Verses%201%20to%2012&text=%5B3%5D%20%22Blessed%20are%20the,for%20they%20shall%20be%20satisfied."
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Matthew 5:1–12
+                      </a>
+                    </h5>
+                    <p class="body">Bible, Revised Standard Version</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.indwes.edu/academics/jwhc/_files/plato_s%20allegory%20of%20the%20cave.pdf"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        The Allegory of the Cave
+                      </a>
+                    </h5>
+                    <p class="body">By Plato</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
                         href="https://www.rogerscruton.com/homepage/about/music/understanding-music/187-effing-the-ineffable"
                         style={{ textDecoration: "none" }}
                         target="_blank"
@@ -159,54 +207,6 @@ class words extends Component {
                       </a>
                     </h5>
                     <p class="body">By Bruce Pardy</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        The Death of the Moth
-                      </a>
-                    </h5>
-                    <p class="body">By Virginia Woolf</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://www.indwes.edu/academics/jwhc/_files/plato_s%20allegory%20of%20the%20cave.pdf"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        The Allegory of the Cave
-                      </a>
-                    </h5>
-                    <p class="body">By Plato</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=citation&book=Matthew&chapno=5&startverse=1&endverse=12#:~:text=Matt.,5%20Verses%201%20to%2012&text=%5B3%5D%20%22Blessed%20are%20the,for%20they%20shall%20be%20satisfied."
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Matthew 5:1–12
-                      </a>
-                    </h5>
-                    <p class="body">Bible, Revised Standard Version</p>
                   </div>
                 </div>
               </div>
