@@ -114,9 +114,6 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-            </div>
-            <br />
-            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-4 row-cols-xl-4 g-4">
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -130,22 +127,6 @@ class words extends Component {
                       </a>
                     </h5>
                     <p class="body">By Sir Roger Scruton</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://deliverypdf.ssrn.com/delivery.php?ID=433000088031099030111106074095017124028072042008084011092127082113084029108097082005098003032035018116033081110105112021083083106080012039033091064105119068025061077034073089086096103086070081107090075076065010000097005086065031112125067072101086&EXT=pdf&INDEX=TRUE"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Fourteen Maxims
-                      </a>
-                    </h5>
-                    <p class="body">By Bruce Pardy</p>
                   </div>
                 </div>
               </div>
@@ -170,6 +151,23 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
+                        href="https://deliverypdf.ssrn.com/delivery.php?ID=433000088031099030111106074095017124028072042008084011092127082113084029108097082005098003032035018116033081110105112021083083106080012039033091064105119068025061077034073089086096103086070081107090075076065010000097005086065031112125067072101086&EXT=pdf&INDEX=TRUE"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Fourteen Maxims
+                      </a>
+                    </h5>
+                    <p class="body">By Bruce Pardy</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
                         href="https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf"
                         style={{ textDecoration: "none" }}
                         target="_blank"
@@ -181,9 +179,22 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-            </div>
-            <br />
-            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 g-4">
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=citation&book=Matthew&chapno=5&startverse=1&endverse=12#:~:text=Matt.,5%20Verses%201%20to%2012&text=%5B3%5D%20%22Blessed%20are%20the,for%20they%20shall%20be%20satisfied."
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Matthew 5:3–12
+                      </a>
+                    </h5>
+                    <p class="body">Bible, Revised Standard Version</p>
+                  </div>
+                </div>
+              </div>
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -194,22 +205,6 @@ class words extends Component {
                         target="_blank"
                       >
                         Write Like You Talk
-                      </a>
-                    </h5>
-                    <p class="body">By Paul Graham</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://paulgraham.com/know.html"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        How You Know
                       </a>
                     </h5>
                     <p class="body">By Paul Graham</p>
@@ -237,14 +232,14 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=citation&book=Matthew&chapno=5&startverse=1&endverse=12#:~:text=Matt.,5%20Verses%201%20to%2012&text=%5B3%5D%20%22Blessed%20are%20the,for%20they%20shall%20be%20satisfied."
+                        href="https://paulgraham.com/know.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Matthew 5:3–12
+                        How You Know
                       </a>
                     </h5>
-                    <p class="body">Bible, Revised Standard Version</p>
+                    <p class="body">By Paul Graham</p>
                   </div>
                 </div>
               </div>
@@ -269,6 +264,22 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
+                        href="https://sanskritdocuments.org/doc_deities_misc/salutedawn.html"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Salutation of the Dawn
+                      </a>
+                    </h5>
+                    <p class="body">By Kalidasa</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
                         href="https://www.poetryfoundation.org/poems/43291/sailing-to-byzantium"
                         style={{ textDecoration: "none" }}
                         target="_blank"
@@ -280,24 +291,19 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-            </div>
-
-            <br />
-            <h5 className="titles text-center text-lg-start"></h5>
-            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://sanskritdocuments.org/doc_deities_misc/salutedawn.html"
+                        href="https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Salutation of the Dawn
+                        The Charge of the Light Brigade
                       </a>
                     </h5>
-                    <p class="body">By Kalidasa</p>
+                    <p class="body">By Alfred Lord Tennyson</p>
                   </div>
                 </div>
               </div>
@@ -354,23 +360,6 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        The Charge of the Light Brigade
-
-                      </a>
-                    </h5>
-                    <p class="body">By Alfred Lord Tennyson</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
                         href="https://d.lib.rochester.edu/camelot/text/tennyson-epilogue-to-the-queen"
                         style={{ textDecoration: "none" }}
                         target="_blank"
@@ -414,10 +403,6 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-              
-            </div>
-            <br />
-            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 g-4">
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -559,7 +544,7 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
-            <div class="col">
+              <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-header border-light">open letter</div>
                   <div class="card-body">
@@ -572,7 +557,9 @@ class words extends Component {
                         Letter to Santa
                       </a>
                     </h5>
-                    <p class="body"><i>O Captain! my Captain!</i></p>
+                    <p class="body">
+                      <i>O Captain! my Captain!</i>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -630,7 +617,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-                            <div class="col">
+              <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-header border-light">art</div>
                   <div class="card-body">
@@ -848,9 +835,7 @@ class words extends Component {
                         Letter Home to Ukraine
                       </a>
                     </h5>
-                    <p class="body">
-                      A letter for grade 8 english.
-                    </p>
+                    <p class="body">A letter for grade 8 english.</p>
                   </div>
                 </div>
               </div>
