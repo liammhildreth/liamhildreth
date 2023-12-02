@@ -232,6 +232,54 @@ class words extends Component {
                   </div>
                 </div>
               </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=citation&book=Matthew&chapno=5&startverse=1&endverse=12#:~:text=Matt.,5%20Verses%201%20to%2012&text=%5B3%5D%20%22Blessed%20are%20the,for%20they%20shall%20be%20satisfied."
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Matthew 5:3–12
+                      </a>
+                    </h5>
+                    <p class="body">Bible, Revised Standard Version</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://paulgraham.com/useful.html"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        How to Write Usefully
+                      </a>
+                    </h5>
+                    <p class="body">By Paul Graham</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://paulgraham.com/work.html"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Sailing to Byzantium
+                      </a>
+                    </h5>
+                    <p class="body">By William Butler Yeats</p>
+                  </div>
+                </div>
+              </div>
             </div>
 
             <br />
