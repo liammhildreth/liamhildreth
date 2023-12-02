@@ -135,14 +135,14 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.indwes.edu/academics/jwhc/_files/plato_s%20allegory%20of%20the%20cave.pdf"
+                        href="https://paulgraham.com/know.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        The Allegory of the Cave
+                        How You Know
                       </a>
                     </h5>
-                    <p class="body">By Plato</p>
+                    <p class="body">By Paul Graham</p>
                   </div>
                 </div>
               </div>
@@ -162,7 +162,6 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -176,6 +175,22 @@ class words extends Component {
                       </a>
                     </h5>
                     <p class="body">By Virginia Woolf</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.indwes.edu/academics/jwhc/_files/plato_s%20allegory%20of%20the%20cave.pdf"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        The Allegory of the Cave
+                      </a>
+                    </h5>
+                    <p class="body">By Plato</p>
                   </div>
                 </div>
               </div>
@@ -200,22 +215,6 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://paulgraham.com/talk.html"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Write Like You Talk
-                      </a>
-                    </h5>
-                    <p class="body">By Paul Graham</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
                         href="https://paulgraham.com/work.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
@@ -232,11 +231,11 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://paulgraham.com/know.html"
+                        href="https://paulgraham.com/talk.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        How You Know
+                        Write Like You Talk
                       </a>
                     </h5>
                     <p class="body">By Paul Graham</p>
