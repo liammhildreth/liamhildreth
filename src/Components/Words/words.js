@@ -269,7 +269,7 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://paulgraham.com/work.html"
+                        href="https://www.poetryfoundation.org/poems/43291/sailing-to-byzantium"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
