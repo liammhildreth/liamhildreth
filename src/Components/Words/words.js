@@ -460,13 +460,11 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
                     <h5 class="card-title">Fairwell Address</h5>
                     <p class="body">Dwight D. Eisenhowerr</p>
-
                     <div class="row">
                       <div class="col">
                         <a
@@ -487,6 +485,54 @@ class words extends Component {
                         </a>
                       </div>
                     </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        target="_blank"
+                        href="https://www.usna.edu/Ethics/_files/documents/stoicism1.pdf"
+                        style={{ textDecoration: "none" }}
+                      >
+                        The Stoic Warrior's Triad
+                      </a>
+                    </h5>
+                    <p class="body">By James B. Stockdale</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.usna.edu/Ethics/_files/documents/Stoicism2.pdf"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Master of My Fate
+                      </a>
+                    </h5>
+                    <p class="body">By James B. Stockdale</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.youtube.com/watch?v=7-tKZ2ND3vg"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        The Altar of Freedom
+                      </a>
+                    </h5>
+                    <p class="body">By Jocko Willink</p>
                   </div>
                 </div>
               </div>
@@ -718,7 +764,7 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">university</div>
+                  <div class="card-header border-light">Western University</div>
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
@@ -735,7 +781,7 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">high school</div>
+                  <div class="card-header border-light">Trinity College School</div>
                   <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="body">
@@ -767,7 +813,7 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">high school</div>
+                <div class="card-header border-light">Trinity College School</div>
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
@@ -785,7 +831,7 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">high school</div>
+                <div class="card-header border-light">Trinity College School</div>
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
@@ -802,7 +848,7 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">high school</div>
+                <div class="card-header border-light">Trinity College School</div>
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
@@ -815,15 +861,14 @@ class words extends Component {
                     </h5>
                     <p class="body">
                       A poem for grade 12 english aiming to beat the drums of
-                      Howl by Allen Ginsberg.{" "}
+                      Howl by Allen Ginsberg.
                     </p>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">junior school</div>
-
+                <div class="card-header border-light">Trinity College School</div>
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
