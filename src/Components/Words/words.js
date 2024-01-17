@@ -687,14 +687,32 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1dUPD_4pwVcq7rMPQEC5O3IcjSnKeoXVd/view?usp=F"
-                        style={{ textDecoration: "none" }}
                       >
                         Black Box
                       </a>
                     </h5>
                     <p class="body"> A short story. </p>
+
+                    <div class="row">
+                      <div class="col">
+                        <a
+                          target="_blank"
+                          href="https://drive.google.com/file/d/1dUPD_4pwVcq7rMPQEC5O3IcjSnKeoXVd/view?usp=F"
+                          style={{ textDecoration: "none" }}
+                        >
+                          read
+                        </a>
+                      </div>
+                      <div class="col">
+                        <a
+                          target="_blank"
+                          href="https://drive.google.com/file/d/1rzU0Egey84VVJBpsRxWFPPF9N4tGrAJn/view?usp=sharing"
+                          style={{ textDecoration: "none" }}
+                        >
+                          listen
+                        </a>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
