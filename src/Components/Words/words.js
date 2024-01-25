@@ -133,7 +133,9 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 style={{display: "flex",
+                      alignItems: "flex-end",
+                      justifyContent: "center"}}>
                       <a
                         href="https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=citation&book=Matthew&chapno=5&startverse=1&endverse=12#:~:text=Matt.,5%20Verses%201%20to%2012&text=%5B3%5D%20%22Blessed%20are%20the,for%20they%20shall%20be%20satisfied."
                         style={{ textDecoration: "none" }}
