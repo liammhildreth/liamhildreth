@@ -782,63 +782,70 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">ideas</div>
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1xPToGCADWr2dJsVaMMBwcbP_Yfkjz10v/view?usp=sharing"
                         style={{ textDecoration: "none" }}
+
                       >
                         Capella
                       </a>
                     </h5>
-                    <p class="body">
-                      An analysis of the issues facing the web today and a idea
-                      for a potential solution.
-                    </p>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">ideas</div>
-
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1xcfxPE_8R0T4Rh97Y9jxK3NutZAT61TO/view?usp=sharing"
                         style={{ textDecoration: "none" }}
+
                       >
                         The Game of Ideas
                       </a>
                     </h5>
-                    <p class="body">
-                      An article examining social media as a game and an
-                      introduction to Capella.
-                    </p>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">ideas</div>
-
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1hhiwti2i3WohOn2cb2kq8lqUY00RkON6/view?usp=sharing"
                         style={{ textDecoration: "none" }}
+
                       >
                         The Game of Fingers
                       </a>
                     </h5>
-                    <p class="body">
-                      An attempt at modelling the economics of a drinking game I
-                      play with friends.
-                    </p>
                   </div>
                 </div>
               </div>
@@ -867,7 +874,7 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="body">
-                      Co-head prefect address to our graduating class, parents,
+                      Head Prefects' Address to our graduating class, parents,
                       and faculty.
                     </p>
                     <div class="row">
