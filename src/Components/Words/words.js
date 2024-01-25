@@ -591,51 +591,88 @@ class words extends Component {
             <div class="row row-cols-1  row-cols-lg-2  g-4">
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">art</div>
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height:100
+                      }}
+                    >
+                      <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1Lo_1gdFNmqeCJSk4yG9i9kn1F_YZOS1n/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        67
+                      </a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1p294X7tMIjIG7Gboq4YMFO6YLATP3S_A/view?usp=sharing"
                         style={{ textDecoration: "none" }}
+
                       >
                         Butterflies III
                       </a>
                     </h5>
-                    <p class="body">
-                      A few more poems.
-                    </p>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">open letter</div>
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1Sed4X--VVtxu4Z9lHIVF3kPJeiKcjyAE/view?usp=sharing"
                         style={{ textDecoration: "none" }}
+
                       >
                         Letter to Santa
                       </a>
                     </h5>
-                    <p class="body">
-                      <i>O Captain! my Captain!</i>
-                    </p>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">art</div>
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1i_KzyXTipq4J-T9s9RWtwCtAphVyhitg/view?usp=sharing"
                         style={{ textDecoration: "none" }}
+
                       >
                         CV
                       </a>
@@ -645,101 +682,105 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">art</div>
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1ASFcmxC-MO2D8kwOAKP-4Dhhfg5L1Ibn/view?usp=sharing"
                         style={{ textDecoration: "none" }}
+
                       >
                         Butterflies II
                       </a>
                     </h5>
-                    <p class="body"> A few poems. </p>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">art</div>
-
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1AiBVQZU0csqc-zQt93MP-VBH1_l1twJg/view?usp=sharing"
                         style={{ textDecoration: "none" }}
+
                       >
-                        Butterflies
+                        Butterflies 
                       </a>
                     </h5>
-                    <p class="body">
-                      A collection of poems aiming to dance between early modern
-                      english and english.
-                    </p>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">art</div>
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 style={{display: "flex",
+                      alignItems: "flex-end",
+                      justifyContent: "center",
+                      height: 50,}}>
                       <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1dUPD_4pwVcq7rMPQEC5O3IcjSnKeoXVd/view?usp=F"
+                        style={{ textDecoration: "none", color: "black" }}
                       >
                         Black Box
                       </a>
                     </h5>
-                    <p class="body"> A short story. </p>
-
-                    <div class="row">
-                      <div class="col">
-                        <a
-                          target="_blank"
-                          href="https://drive.google.com/file/d/1dUPD_4pwVcq7rMPQEC5O3IcjSnKeoXVd/view?usp=F"
-                          style={{ textDecoration: "none" }}
-                        >
-                          read
-                        </a>
-                      </div>
-                      <div class="col">
-                        <a
-                          target="_blank"
-                          href="https://drive.google.com/file/d/1rzU0Egey84VVJBpsRxWFPPF9N4tGrAJn/view?usp=sharing"
-                          style={{ textDecoration: "none" }}
-                        >
-                          listen
-                        </a>
-                      </div>
-                    </div>
+                    <h5 style={{display: "flex",
+                      alignItems: "flex-start",
+                      justifyContent: "center",
+                      height: 50,}}>                      <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1rzU0Egey84VVJBpsRxWFPPF9N4tGrAJn/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        listen
+                      </a>
+                    </h5>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">art</div>
-
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href=" https://drive.google.com/file/d/18RvDbLtFOT3k4zwMVHQVcNav-kpsYk28/view?usp=sharing"
                         style={{ textDecoration: "none" }}
+
                       >
                         Level High
                       </a>
                     </h5>
-                    <p class="body">
-                      Poem about tree planting in High Level, Alberta.
-                    </p>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-header border-light">ideas</div>
-
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
