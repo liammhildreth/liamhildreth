@@ -313,54 +313,6 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.poetryfoundation.org/poems/50643/sonnet-1-from-fairest-creatures-we-desire-increase"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Sonnet I
-                      </a>
-                    </h5>
-                    <p class="body">By William Shakespeare</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://shakespeare.folger.edu/shakespeares-works/shakespeares-sonnets/sonnet-14/"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Sonnet XIV
-                      </a>
-                    </h5>
-                    <p class="body">By William Shakespeare</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://poets.org/poem/unperfect-actor-stage-sonnet-23"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Sonnet XXIII
-                      </a>
-                    </h5>
-                    <p class="body">By William Shakespeare</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
                         href="https://d.lib.rochester.edu/camelot/text/tennyson-epilogue-to-the-queen"
                         style={{ textDecoration: "none" }}
                         target="_blank"
@@ -401,6 +353,54 @@ class words extends Component {
                       </a>
                     </h5>
                     <p class="body">By Alfred Lord Tennyson</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.poetryfoundation.org/poems/50643/sonnet-1-from-fairest-creatures-we-desire-increase"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Sonnet I
+                      </a>
+                    </h5>
+                    <p class="body">By William Shakespeare</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://shakespeare.folger.edu/shakespeares-works/shakespeares-sonnets/sonnet-14/"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Sonnet XIV
+                      </a>
+                    </h5>
+                    <p class="body">By William Shakespeare</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://poets.org/poem/unperfect-actor-stage-sonnet-23"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Sonnet XXIII
+                      </a>
+                    </h5>
+                    <p class="body">By William Shakespeare</p>
                   </div>
                 </div>
               </div>
