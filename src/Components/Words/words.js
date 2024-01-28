@@ -511,14 +511,14 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        href="https://www.usna.edu/Ethics/_files/documents/Stoicism2.pdf"
-                        style={{ textDecoration: "none" }}
                         target="_blank"
+                        href="https://www.youtube.com/watch?v=4KOOmA_YUMo"
+                        style={{ textDecoration: "none" }}
                       >
-                        Master of My Fate
+                        What Do You Desire?
                       </a>
                     </h5>
-                    <p class="body">By James B. Stockdale</p>
+                    <p class="body">By Alan Watts</p>
                   </div>
                 </div>
               </div>
@@ -559,17 +559,18 @@ class words extends Component {
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
-                        target="_blank"
-                        href="https://www.youtube.com/watch?v=4KOOmA_YUMo"
+                        href="https://www.usna.edu/Ethics/_files/documents/Stoicism2.pdf"
                         style={{ textDecoration: "none" }}
+                        target="_blank"
                       >
-                        What Do You Desire?
+                        Master of My Fate
                       </a>
                     </h5>
-                    <p class="body">By Alan Watts</p>
+                    <p class="body">By James B. Stockdale</p>
                   </div>
                 </div>
               </div>
+              
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
