@@ -835,7 +835,7 @@ class words extends Component {
                         display: "flex",
                         alignItems: "center",
                         justifyContent: "center",
-                        height: 100,
+                        height: 137
                       }}
                     >
                       <a
