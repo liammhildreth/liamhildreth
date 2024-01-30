@@ -592,6 +592,28 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
+            <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height:100
+                      }}
+                    >
+                      <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1AiBVQZU0csqc-zQt93MP-VBH1_l1twJg/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        Butterflies
+                      </a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -609,29 +631,6 @@ class words extends Component {
                         style={{ textDecoration: "none" }}
                       >
                         67
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1p294X7tMIjIG7Gboq4YMFO6YLATP3S_A/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-
-                      >
-                        Butterflies III
                       </a>
                     </h5>
                   </div>
@@ -686,75 +685,19 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1ASFcmxC-MO2D8kwOAKP-4Dhhfg5L1Ibn/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-
-                      >
-                        Butterflies II
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1AiBVQZU0csqc-zQt93MP-VBH1_l1twJg/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-
-                      >
-                        Butterflies 
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
                     <h5 style={{display: "flex",
-                      alignItems: "flex-end",
+                      alignItems: "center",
                       justifyContent: "center",
-                      height: 50,}}>
+                      height: 100,}}>
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1dUPD_4pwVcq7rMPQEC5O3IcjSnKeoXVd/view?usp=F"
-                        style={{ textDecoration: "none", color: "black" }}
+                        style={{ textDecoration: "none" }}
                       >
                         Black Box
                       </a>
                     </h5>
-                    <h5 style={{display: "flex",
-                      alignItems: "flex-start",
-                      justifyContent: "center",
-                      height: 50,}}>                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1rzU0Egey84VVJBpsRxWFPPF9N4tGrAJn/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        listen
-                      </a>
-                    </h5>
+
                   </div>
                 </div>
               </div>
