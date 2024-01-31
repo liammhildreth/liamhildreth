@@ -614,28 +614,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height:100
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1Lo_1gdFNmqeCJSk4yG9i9kn1F_YZOS1n/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        67
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -659,29 +638,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1i_KzyXTipq4J-T9s9RWtwCtAphVyhitg/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
 
-                      >
-                        CV
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -701,29 +658,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href=" https://drive.google.com/file/d/18RvDbLtFOT3k4zwMVHQVcNav-kpsYk28/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-
-                      >
-                        Level High
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
+             
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -778,7 +713,7 @@ class words extends Component {
                         display: "flex",
                         alignItems: "center",
                         justifyContent: "center",
-                        height: 137
+                        height: 100
                       }}
                     >
                       <a
