@@ -799,25 +799,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-header border-light">
-                    Trinity College School
-                  </div>
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1OEXBnvgYgdkwzkuOUBKFjq1qG5gnBrpm/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        TCS ad
-                      </a>
-                    </h5>
-                    <p class="body">A grade 12 business project. </p>
-                  </div>
-                </div>
-              </div>
+             
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-header border-light">
@@ -837,6 +819,25 @@ class words extends Component {
                       A poem for grade 12 english aiming to beat the drums of
                       Howl by Allen Ginsberg.
                     </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-header border-light">
+                    Trinity College School
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1OEXBnvgYgdkwzkuOUBKFjq1qG5gnBrpm/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        TCS ad
+                      </a>
+                    </h5>
+                    <p class="body">A grade 12 business project. </p>
                   </div>
                 </div>
               </div>
