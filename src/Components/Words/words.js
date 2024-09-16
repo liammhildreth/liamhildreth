@@ -699,7 +699,8 @@ class words extends Component {
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1hhiwti2i3WohOn2cb2kq8lqUY00RkON6/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
+                        style={{ textDecoration: "none",
+ }}
                       >
                         The Game of Fingers
                       </a>
@@ -709,7 +710,6 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">Western University</div>
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
