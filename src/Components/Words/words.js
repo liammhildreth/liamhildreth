@@ -752,7 +752,7 @@ class words extends Component {
                       </a>
                     </h5>
                     <p class="body">
-                      A poem for grade 12 english aiming to beat the drums of
+                      A poem for grade 12 english aiming to beat the drum of
                       Howl by Allen Ginsberg.
                     </p>
                   </div>
