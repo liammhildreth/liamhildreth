@@ -497,7 +497,14 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 class="card-title"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      height: 45,
+                    }}>
+                    
                       <a
                         target="_blank"
                         href="https://www.usna.edu/Ethics/_files/documents/stoicism1.pdf"
@@ -515,7 +522,13 @@ class words extends Component {
                   <div
                     class="card-body"
                   >
-                    <h5 class="card-title">
+                    <h5 class="card-title"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      height: 45,
+                    }}>
                       <a
                         href="https://www.usna.edu/Ethics/_files/documents/Stoicism2.pdf"
                         style={{ textDecoration: "none" }}
@@ -531,7 +544,13 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 class="card-title"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      height: 45,
+                    }}>
                       <a
                         href="https://www.youtube.com/watch?v=7-tKZ2ND3vg"
                         style={{ textDecoration: "none" }}
@@ -547,7 +566,13 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 class="card-title"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      height: 45,
+                    }}>
                       <a
                         href="https://www.youtube.com/watch?v=RBGJ8uyAT24"
                         style={{ textDecoration: "none" }}
@@ -563,7 +588,13 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 class="card-title"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      height: 45,
+                    }}>
                       <a
                         target="_blank"
                         href="https://www.youtube.com/watch?v=4KOOmA_YUMo"
@@ -579,7 +610,13 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 class="card-title"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      height: 45,
+                    }}>
                       <a
                         href="https://www.youtube.com/watch?v=DV4EDr1cM-Q"
                         style={{ textDecoration: "none" }}
