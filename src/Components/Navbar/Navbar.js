@@ -32,7 +32,7 @@ class Navbarclass extends Component {
               <Nav.Link
                 className="navbarwords"
                 target="_blank"
-                href="https://vsco.co/liamhildreth/gallery"
+                href="https://photos.app.goo.gl/TNdtNdqFCtQJDcJ49"
               >
                 SIGHTS
               </Nav.Link>
