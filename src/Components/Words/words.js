@@ -497,14 +497,15 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title"
-                    style={{
-                      display: "flex",
-                      alignItems: "center",
-                      justifyContent: "center",
-                      height: 45,
-                    }}>
-                    
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://www.usna.edu/Ethics/_files/documents/stoicism1.pdf"
@@ -519,16 +520,16 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div
-                    class="card-body"
-                  >
-                    <h5 class="card-title"
-                    style={{
-                      display: "flex",
-                      alignItems: "center",
-                      justifyContent: "center",
-                      height: 45,
-                    }}>
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://www.usna.edu/Ethics/_files/documents/Stoicism2.pdf"
                         style={{ textDecoration: "none" }}
@@ -544,13 +545,15 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title"
-                    style={{
-                      display: "flex",
-                      alignItems: "center",
-                      justifyContent: "center",
-                      height: 45,
-                    }}>
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://www.youtube.com/watch?v=7-tKZ2ND3vg"
                         style={{ textDecoration: "none" }}
@@ -566,13 +569,15 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title"
-                    style={{
-                      display: "flex",
-                      alignItems: "center",
-                      justifyContent: "center",
-                      height: 45,
-                    }}>
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://www.youtube.com/watch?v=RBGJ8uyAT24"
                         style={{ textDecoration: "none" }}
@@ -588,13 +593,15 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title"
-                    style={{
-                      display: "flex",
-                      alignItems: "center",
-                      justifyContent: "center",
-                      height: 45,
-                    }}>
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         target="_blank"
                         href="https://www.youtube.com/watch?v=4KOOmA_YUMo"
@@ -610,13 +617,15 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title"
-                    style={{
-                      display: "flex",
-                      alignItems: "center",
-                      justifyContent: "center",
-                      height: 45,
-                    }}>
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://www.youtube.com/watch?v=DV4EDr1cM-Q"
                         style={{ textDecoration: "none" }}
@@ -634,7 +643,29 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
-            <div class="col">
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
+                      <a
+                        target="_blank"
+                        href="https://docs.google.com/document/d/1AhAqiXCFjFQxFysr4bnTyfUS28KqNXitl_2IphDBgtQ/edit?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        The End of US Intelligence
+                      </a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
                     <h5
@@ -695,28 +726,6 @@ class words extends Component {
                         style={{ textDecoration: "none" }}
                       >
                         Freedom of Soul
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://docs.google.com/document/d/1AhAqiXCFjFQxFysr4bnTyfUS28KqNXitl_2IphDBgtQ/edit?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        The End of US Intelligence
                       </a>
                     </h5>
                   </div>
@@ -802,8 +811,7 @@ class words extends Component {
                       <a
                         target="_blank"
                         href="https://drive.google.com/file/d/1hhiwti2i3WohOn2cb2kq8lqUY00RkON6/view?usp=sharing"
-                        style={{ textDecoration: "none",
- }}
+                        style={{ textDecoration: "none" }}
                       >
                         The Game of Fingers
                       </a>
@@ -813,9 +821,7 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">
-                    Western University
-                  </div>
+                  <div class="card-header border-light">Western University</div>
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
