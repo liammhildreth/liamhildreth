@@ -757,10 +757,10 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1xcfxPE_8R0T4Rh97Y9jxK3NutZAT61TO/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1xPToGCADWr2dJsVaMMBwcbP_Yfkjz10v/view?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        The Game of Ideas
+                        Capella
                       </a>
                     </h5>
                   </div>
@@ -779,10 +779,10 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1xPToGCADWr2dJsVaMMBwcbP_Yfkjz10v/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1xcfxPE_8R0T4Rh97Y9jxK3NutZAT61TO/view?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        Capella
+                        The Game of Ideas
                       </a>
                     </h5>
                   </div>
