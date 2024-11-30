@@ -813,6 +813,9 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
+                  <div class="card-header border-light">
+                    Western University
+                  </div>
                   <div class="card-body">
                     <h5 class="card-title">
                       <a
