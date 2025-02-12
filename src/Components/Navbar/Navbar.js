@@ -50,7 +50,7 @@ class Navbarclass extends Component {
               <Nav.Link
                 className="navbarwords"
                 target="_blank"
-                href="https://open.spotify.com/user/22dz6usw3ktrhb4vbwarikfky?si=8dc9a3a5910a4943"
+                href="https://open.spotify.com/user/22dz6usw3ktrhb4vbwarikfky?nd=1&dlsi=aa113e371f0647e8"
               >
                 <img width="25px" src={y} alt="logo"></img>
               </Nav.Link>
