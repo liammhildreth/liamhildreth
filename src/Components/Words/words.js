@@ -601,7 +601,7 @@ class words extends Component {
                         justifyContent: "center",
                         height: 45,
                       }}
-                    >
+                     >
                       <a
                         target="_blank"
                         href="https://www.youtube.com/watch?v=4KOOmA_YUMo"
@@ -656,10 +656,10 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://docs.google.com/document/d/1AhAqiXCFjFQxFysr4bnTyfUS28KqNXitl_2IphDBgtQ/edit?usp=sharing"
+                        href="https://docs.google.com/document/d/1SvPBkykAH6YYeEImjDUsDMvYsXby7-RnAUSKcz_Sw0E/edit?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        The End of US Intelligence
+                        Press '['The Button']'
                       </a>
                     </h5>
                   </div>
