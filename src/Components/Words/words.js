@@ -659,7 +659,7 @@ class words extends Component {
                         href="https://docs.google.com/document/d/1SvPBkykAH6YYeEImjDUsDMvYsXby7-RnAUSKcz_Sw0E/edit?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        Press '['The Button']'
+                        Press [The Button]
                       </a>
                     </h5>
                   </div>
