@@ -69,7 +69,15 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://www.ibiblio.org/ebooks/Thoreau/Civil%20Disobedience.pdf"
                         style={{ textDecoration: "none" }}
@@ -85,7 +93,15 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf"
                         style={{ textDecoration: "none" }}
@@ -101,7 +117,15 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html"
                         style={{ textDecoration: "none" }}
@@ -117,9 +141,17 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
-                        href="https://docenti.unimc.it/sharifah.alatas/teaching/2019/21609/files/Woolf_DeathoftheMoth.pdf"
+                        href="https://gutenberg.net.au/ebooks12/1203811h.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
@@ -134,10 +166,12 @@ class words extends Component {
                 <div class="card h-100 border-light">
                   <div class="card-body">
                     <h5
+                      class="card-title"
                       style={{
                         display: "flex",
-                        alignItems: "flex-end",
+                        alignItems: "center",
                         justifyContent: "center",
+                        height: 45,
                       }}
                     >
                       <a
@@ -148,78 +182,48 @@ class words extends Component {
                         Matthew 5:1–12
                       </a>
                     </h5>
-                    <p class="body">Bible, Revised Standard Version</p>
+                    <p class="body">Bible</p>
                   </div>
                 </div>
               </div>
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
-                        href="https://www.indwes.edu/academics/jwhc/_files/plato_s%20allegory%20of%20the%20cave.pdf"
+                        href="https://paulgraham.com/useful.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        The Allegory of the Cave
-                      </a>
-                    </h5>
-                    <p class="body">By Plato</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://www.rogerscruton.com/homepage/about/music/understanding-music/187-effing-the-ineffable"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Effing the Ineffable
-                      </a>
-                    </h5>
-                    <p class="body">By Sir Roger Scruton</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://paulgraham.com/know.html"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        How You Know
+                        How to Write Usefully
                       </a>
                     </h5>
                     <p class="body">By Paul Graham</p>
                   </div>
                 </div>
               </div>
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://deliverypdf.ssrn.com/delivery.php?ID=433000088031099030111106074095017124028072042008084011092127082113084029108097082005098003032035018116033081110105112021083083106080012039033091064105119068025061077034073089086096103086070081107090075076065010000097005086065031112125067072101086&EXT=pdf&INDEX=TRUE"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Fourteen Maxims
-                      </a>
-                    </h5>
-                    <p class="body">By Bruce Pardy</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://paulgraham.com/work.html"
                         style={{ textDecoration: "none" }}
@@ -235,7 +239,40 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://paulgraham.com/know.html"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        How You Know
+                      </a>
+                    </h5>
+                    <p class="body">By Paul Graham</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://paulgraham.com/talk.html"
                         style={{ textDecoration: "none" }}
@@ -251,246 +288,24 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
-                        href="https://paulgraham.com/useful.html"
+                        href="https://catholiceducation.org/en/religion-and-philosophy/apologetics/effing-the-ineffable.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        How to Write Usefully
+                        Effing the Ineffable
                       </a>
                     </h5>
-                    <p class="body">By Paul Graham</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://sanskritdocuments.org/doc_deities_misc/salutedawn.html"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Salutation of the Dawn
-                      </a>
-                    </h5>
-                    <p class="body">By Kalidasa</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://www.poetryfoundation.org/poems/43291/sailing-to-byzantium"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Sailing to Byzantium
-                      </a>
-                    </h5>
-                    <p class="body">By William Butler Yeats</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        The Charge of the Light Brigade
-                      </a>
-                    </h5>
-                    <p class="body">By Alfred Lord Tennyson</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://d.lib.rochester.edu/camelot/text/tennyson-epilogue-to-the-queen"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        To the Queen
-                      </a>
-                    </h5>
-                    <p class="body">By Alfred Lord Tennyson</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://www.poetryfoundation.org/poems/45392/ulysses"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Ulysses
-                      </a>
-                    </h5>
-                    <p class="body">By Alfred Lord Tennyson</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://allpoetry.com/The-Palace-of-Art"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        The Palace of Art
-                      </a>
-                    </h5>
-                    <p class="body">By Alfred Lord Tennyson</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://www.poetryfoundation.org/poems/50643/sonnet-1-from-fairest-creatures-we-desire-increase"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Sonnet I
-                      </a>
-                    </h5>
-                    <p class="body">By William Shakespeare</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://shakespeare.folger.edu/shakespeares-works/shakespeares-sonnets/sonnet-14/"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Sonnet XIV
-                      </a>
-                    </h5>
-                    <p class="body">By William Shakespeare</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        href="https://poets.org/poem/unperfect-actor-stage-sonnet-23"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Sonnet XXIII
-                      </a>
-                    </h5>
-                    <p class="body">By William Shakespeare</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">Banquet speech</h5>
-                    <p class="body">William Faulkner</p>
-
-                    <div class="row">
-                      <div class="col">
-                        <a
-                          href="https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/"
-                          style={{ textDecoration: "none" }}
-                          target="_blank"
-                        >
-                          read
-                        </a>
-                      </div>
-                      <div class="col">
-                        <a
-                          target="_blank"
-                          href="https://www.youtube.com/watch?v=nk9_1oww4FY"
-                          style={{ textDecoration: "none" }}
-                        >
-                          listen
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">Student Speech</h5>
-                    <p class="body">Donovan Livingston</p>
-
-                    <div class="row">
-                      <div class="col">
-                        <a
-                          href="https://www.gse.harvard.edu/ideas/news/16/05/lift"
-                          style={{ textDecoration: "none" }}
-                          target="_blank"
-                        >
-                          read
-                        </a>
-                      </div>
-                      <div class="col">
-                        <a
-                          target="_blank"
-                          href="https://www.youtube.com/watch?v=9XGUpKITeJM"
-                          style={{ textDecoration: "none" }}
-                        >
-                          watch
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">Fairwell Address</h5>
-                    <p class="body">Dwight D. Eisenhowerr</p>
-                    <div class="row">
-                      <div class="col">
-                        <a
-                          href="https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address"
-                          style={{ textDecoration: "none" }}
-                          target="_blank"
-                        >
-                          read
-                        </a>
-                      </div>
-                      <div class="col">
-                        <a
-                          target="_blank"
-                          href="https://www.youtube.com/watch?v=OyBNmecVtdU"
-                          style={{ textDecoration: "none" }}
-                        >
-                          watch
-                        </a>
-                      </div>
-                    </div>
+                    <p class="body">By Sir Roger Scruton</p>
                   </div>
                 </div>
               </div>
@@ -555,14 +370,208 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://www.youtube.com/watch?v=7-tKZ2ND3vg"
+                        href="https://sanskritdocuments.org/doc_deities_misc/salutedawn.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        The Altar of Freedom
+                        Salutation of the Dawn
                       </a>
                     </h5>
-                    <p class="body">By Jocko Willink</p>
+                    <p class="body">By Kalidasa</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://www.artofmanliness.com/invictus-william-ernest-henley/"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Invictus
+                      </a>
+                    </h5>
+                    <p class="body">By William Ernest Henley</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://drive.google.com/file/d/1l82ItMDNQFFvkToMIZWj6FxBZS8Dm8Sk/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        The Coming of Wisdom with Time
+                      </a>
+                    </h5>
+                    <p class="body">By William Butler Yeats</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://kalliope.org/en/text/tennyson1999063013"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        To the Queen
+                      </a>
+                    </h5>
+                    <p class="body">By Alfred Lord Tennyson</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://www.poetryfoundation.org/poems/45392/ulysses"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Ulysses
+                      </a>
+                    </h5>
+                    <p class="body">By Alfred Lord Tennyson</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://americanliterature.com/author/alfred-lord-tennyson/poem/the-two-voices"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        The Two Voices
+                      </a>
+                    </h5>
+                    <p class="body">By Alfred Lord Tennyson</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://www.poetryfoundation.org/poems/50643/sonnet-1-from-fairest-creatures-we-desire-increase"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Sonnet I
+                      </a>
+                    </h5>
+                    <p class="body">By William Shakespeare</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://shakespeare.folger.edu/shakespeares-works/shakespeares-sonnets/sonnet-14/"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Sonnet XIV
+                      </a>
+                    </h5>
+                    <p class="body">By William Shakespeare</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://poets.org/poem/unperfect-actor-stage-sonnet-23"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Sonnet XXIII
+                      </a>
+                    </h5>
+                    <p class="body">By William Shakespeare</p>
                   </div>
                 </div>
               </div>
@@ -601,13 +610,13 @@ class words extends Component {
                         justifyContent: "center",
                         height: 45,
                       }}
-                     >
+                    >
                       <a
-                        target="_blank"
-                        href="https://www.youtube.com/watch?v=4KOOmA_YUMo"
+                        href="https://www.youtube.com/watch?v=DV4EDr1cM-Q"
                         style={{ textDecoration: "none" }}
+                        target="_blank"
                       >
-                        What Do You Desire?
+                        On Yoga
                       </a>
                     </h5>
                     <p class="body">By Alan Watts</p>
@@ -627,14 +636,95 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://www.youtube.com/watch?v=DV4EDr1cM-Q"
+                        href="https://www.youtube.com/watch?v=7-tKZ2ND3vg"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        On Yoga
+                        The Altar of Freedom
                       </a>
                     </h5>
-                    <p class="body">By Alan Watts</p>
+                    <p class="body">By Jocko Willink</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.youtube.com/watch?v=nk9_1oww4FY"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Banquet Speech
+                      </a>
+                    </h5>
+                    <p class="body"> By William Faulkner</p>
+                    <div class="row">
+                      <div class="col">
+                        <a
+                          href="https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/"
+                          style={{ textDecoration: "none" }}
+                          target="_blank"
+                        >
+                          read
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.youtube.com/watch?v=9XGUpKITeJM"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Student Speech
+                      </a>
+                    </h5>{" "}
+                    <p class="body">By Donovan Livingston</p>
+                    <div class="row">
+                      <div class="col">
+                        <a
+                          href="https://www.gse.harvard.edu/ideas/news/16/05/lift"
+                          style={{ textDecoration: "none" }}
+                          target="_blank"
+                        >
+                          read
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a
+                        href="https://www.youtube.com/watch?v=OyBNmecVtdU"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Fairwell Address
+                      </a>
+                    </h5>
+                    <p class="body"> By Dwight Eisenhowerr</p>
+                    <div class="row">
+                      <div class="col">
+                        <a
+                          href="https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address"
+                          style={{ textDecoration: "none" }}
+                          target="_blank"
+                        >
+                          read
+                        </a>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -643,7 +733,7 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
-            <div class="col">
+              <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
                     <h5
@@ -660,6 +750,28 @@ class words extends Component {
                         style={{ textDecoration: "none" }}
                       >
                         Emergency Alarm
+                      </a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
+                      <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1IVWA8pMu2Ch5VaXk6MqdaVEJ8QOXIh3Z/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        The Game's Obituary
                       </a>
                     </h5>
                   </div>
@@ -843,19 +955,24 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                  <div class="card-header border-light">Western University</div>
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1t3b-voXs8QQvjW_HKpN6-ia1YWOTY-Dw/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        The Tumultuous Journey of Detroit's Big Three Automakers
-                        Through the Great Recession and COVID-19 Pandemic
-                      </a>
-                    </h5>
+                <div class="card-header border-light">
+Western University                  </div>
+                <div class="card-body">
+
+                  <h5
+       
+                  >
+                    <a
+                      target="_blank"
+                      href="https://drive.google.com/file/d/1t3b-voXs8QQvjW_HKpN6-ia1YWOTY-Dw/view?usp=sharing"
+                      style={{ textDecoration: "none" }}
+                    >
+                      The Tumultuous Journey of Detroit's Big Three Automakers
+                      Through the Great Recession and COVID-19 Pandemic
+                    </a>
+                  </h5>
                   </div>
+
                 </div>
               </div>
               <div class="col">
