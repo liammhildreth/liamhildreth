@@ -643,6 +643,28 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
+            <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
+                      <a
+                        target="_blank"
+                        href="https://docs.google.com/document/d/1s5kWw1xB1fYBsrOkE8L60pNpDxY9HQUO4Nb2OkT6XPE/edit?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        Emergency Alarm
+                      </a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
