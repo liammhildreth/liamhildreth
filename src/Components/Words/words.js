@@ -515,7 +515,7 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://www.poetryfoundation.org/poems/50643/sonnet-1-from-fairest-creatures-we-desire-increase"
+                        href="https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/1/"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
@@ -564,7 +564,7 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://poets.org/poem/unperfect-actor-stage-sonnet-23"
+                        href="https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/23/"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
@@ -746,10 +746,10 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://docs.google.com/document/d/1s5kWw1xB1fYBsrOkE8L60pNpDxY9HQUO4Nb2OkT6XPE/edit?usp=sharing"
+                        href="https://drive.google.com/file/d/1Rm5hojLVJq0aYsw6vI-UduzQqyRb7sxx/view?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        Emergency Alarm
+                        S.O.S.
                       </a>
                     </h5>
                   </div>
