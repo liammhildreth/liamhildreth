@@ -664,7 +664,7 @@ class words extends Component {
                       <div class="col">
                         <a
                           href="https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/"
-                          style={{ textDecoration: "none" }}
+                          style={{ textDecoration: "none", color:'#a9a9a9' }}
                           target="_blank"
                         >
                           read
@@ -691,7 +691,7 @@ class words extends Component {
                       <div class="col">
                         <a
                           href="https://www.gse.harvard.edu/ideas/news/16/05/lift"
-                          style={{ textDecoration: "none" }}
+                          style={{ textDecoration: "none", color:'#a9a9a9' }}
                           target="_blank"
                         >
                           read
@@ -718,7 +718,7 @@ class words extends Component {
                       <div class="col">
                         <a
                           href="https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address"
-                          style={{ textDecoration: "none" }}
+                          style={{ textDecoration: "none", color:'#a9a9a9' }}
                           target="_blank"
                         >
                           read
