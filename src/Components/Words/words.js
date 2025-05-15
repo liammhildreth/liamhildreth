@@ -746,7 +746,7 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1Rm5hojLVJq0aYsw6vI-UduzQqyRb7sxx/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1-wr3b8hy0yEj3Qq1WGdYamB31BfWA1UI/view?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
                         S.O.S.
@@ -755,50 +755,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1IVWA8pMu2Ch5VaXk6MqdaVEJ8QOXIh3Z/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        The Game's Obituary
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://docs.google.com/document/d/1SvPBkykAH6YYeEImjDUsDMvYsXby7-RnAUSKcz_Sw0E/edit?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Press [The Button]
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
+              
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
