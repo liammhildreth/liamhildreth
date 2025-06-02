@@ -746,10 +746,10 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1-wr3b8hy0yEj3Qq1WGdYamB31BfWA1UI/view?usp=sharing"
+                        href="https://docs.google.com/spreadsheets/d/1FOrwnisjj7FLh_3nTJrFytWKxKfmnQO1EwayKqua_u0/edit?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        S.O.S.
+                        Chess
                       </a>
                     </h5>
                   </div>
@@ -769,7 +769,7 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1j9nmcgc5tXrzoJaxWs2UHQ2j54Ptd6PS/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1NQ0dlUcXnT8-GIrl5ZCDxq6UpXVPfpkm/view?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
                         Invoice
