@@ -1,10 +1,8 @@
 import React, { Component } from "react";
 import "./Navbar.css";
 import logo from "../../lh.png";
-import x from "../../x.jpg";
-import y from "../../green_spotify.png";
+
 import Butterfly from "../../Butterfly.png";
-import z from "../../Google-Photos-logo.png";
 import { Navbar, Nav, Container, Modal } from "react-bootstrap";
 import { ImPhoneHangUp } from "react-icons/im";
 
