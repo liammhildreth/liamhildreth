@@ -4,7 +4,6 @@ import "./words.css";
 import lecture from "../../lastlecture.jpg";
 import gods from "../../againstthegods.jpg";
 import msfm from "../../msfm.jpg";
-import { colors } from "@material-ui/core";
 
 class words extends Component {
   render() {
@@ -103,54 +102,6 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        The Myth of Sisyphus
-                      </a>
-                    </h5>
-                    <p class="body">By Albert Camus</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      class="card-title"
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 45,
-                      }}
-                    >
-                      <a
-                        href="https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Letter From Birmingham Jail
-                      </a>
-                    </h5>
-                    <p class="body">By Martin Luther King Jr.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      class="card-title"
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 45,
-                      }}
-                    >
-                      <a
                         href="https://gutenberg.net.au/ebooks12/1203811h.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
@@ -175,14 +126,14 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=citation&book=Matthew&chapno=5&startverse=1&endverse=12#:~:text=Matt.,5%20Verses%201%20to%2012&text=%5B3%5D%20%22Blessed%20are%20the,for%20they%20shall%20be%20satisfied."
+                        href="https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Matthew 5:1–12
+                        Letter From Birmingham Jail
                       </a>
                     </h5>
-                    <p class="body">Bible</p>
+                    <p class="body">By Martin Luther King Jr.</p>
                   </div>
                 </div>
               </div>
@@ -285,30 +236,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      class="card-title"
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 45,
-                      }}
-                    >
-                      <a
-                        href="https://catholiceducation.org/en/religion-and-philosophy/apologetics/effing-the-ineffable.html"
-                        style={{ textDecoration: "none" }}
-                        target="_blank"
-                      >
-                        Effing the Ineffable
-                      </a>
-                    </h5>
-                    <p class="body">By Sir Roger Scruton</p>
-                  </div>
-                </div>
-              </div>
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -370,14 +298,14 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://sanskritdocuments.org/doc_deities_misc/salutedawn.html"
+                        href="https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=citation&book=Matthew&chapno=5&startverse=1&endverse=12#:~:text=Matt.,5%20Verses%201%20to%2012&text=%5B3%5D%20%22Blessed%20are%20the,for%20they%20shall%20be%20satisfied."
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Salutation of the Dawn
+                        Matthew 5:1–12
                       </a>
                     </h5>
-                    <p class="body">By Kalidasa</p>
+                    <p class="body">Bible</p>
                   </div>
                 </div>
               </div>
@@ -442,18 +370,17 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://kalliope.org/en/text/tennyson1999063013"
+                        href="https://www.poetryfoundation.org/poems/45392/ulysses"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        To the Queen
+                        Ulysses
                       </a>
                     </h5>
                     <p class="body">By Alfred Lord Tennyson</p>
                   </div>
                 </div>
               </div>
-
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -467,11 +394,11 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://www.poetryfoundation.org/poems/45392/ulysses"
+                        href="https://kalliope.org/en/text/tennyson1999063013"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Ulysses
+                        To the Queen
                       </a>
                     </h5>
                     <p class="body">By Alfred Lord Tennyson</p>
@@ -588,14 +515,14 @@ class words extends Component {
                       }}
                     >
                       <a
-                        href="https://www.youtube.com/watch?v=RBGJ8uyAT24"
+                        href="https://sanskritdocuments.org/doc_deities_misc/salutedawn.html"
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Ways of Liberation
+                        Salutation of the Dawn
                       </a>
                     </h5>
-                    <p class="body">By Alan Watts</p>
+                    <p class="body">By Kalidasa</p>
                   </div>
                 </div>
               </div>
@@ -636,6 +563,31 @@ class words extends Component {
                       }}
                     >
                       <a
+                        href="https://www.youtube.com/watch?v=RBGJ8uyAT24"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Ways of Liberation
+                      </a>
+                    </h5>
+                    <p class="body">By Alan Watts</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
                         href="https://www.youtube.com/watch?v=7-tKZ2ND3vg"
                         style={{ textDecoration: "none" }}
                         target="_blank"
@@ -650,7 +602,15 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://www.youtube.com/watch?v=nk9_1oww4FY"
                         style={{ textDecoration: "none" }}
@@ -659,25 +619,30 @@ class words extends Component {
                         Banquet Speech
                       </a>
                     </h5>
-                    <p class="body"> By William Faulkner</p>
-                    <div class="row">
-                      <div class="col">
-                        <a
-                          href="https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/"
-                          style={{ textDecoration: "none", color:'#a9a9a9' }}
-                          target="_blank"
-                        >
-                          read
-                        </a>
-                      </div>
-                    </div>
+                    <p class="body">
+                      <a
+                        href="https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/"
+                        style={{ textDecoration: "none", color: "black" }}
+                        target="_blank"
+                      >
+                        By William Faulkner
+                      </a>
+                    </p>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5 class="card-title">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
                       <a
                         href="https://www.youtube.com/watch?v=9XGUpKITeJM"
                         style={{ textDecoration: "none" }}
@@ -686,45 +651,15 @@ class words extends Component {
                         Student Speech
                       </a>
                     </h5>{" "}
-                    <p class="body">By Donovan Livingston</p>
-                    <div class="row">
-                      <div class="col">
-                        <a
-                          href="https://www.gse.harvard.edu/ideas/news/16/05/lift"
-                          style={{ textDecoration: "none", color:'#a9a9a9' }}
-                          target="_blank"
-                        >
-                          read
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5 class="card-title">
+                    <p class="body">
                       <a
-                        href="https://www.youtube.com/watch?v=OyBNmecVtdU"
-                        style={{ textDecoration: "none" }}
+                        href="https://www.gse.harvard.edu/ideas/news/16/05/lift"
+                        style={{ textDecoration: "none", color: "black" }}
                         target="_blank"
                       >
-                        Fairwell Address
+                        By Donovan Livingston
                       </a>
-                    </h5>
-                    <p class="body"> By Dwight Eisenhowerr</p>
-                    <div class="row">
-                      <div class="col">
-                        <a
-                          href="https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address"
-                          style={{ textDecoration: "none", color:'#a9a9a9' }}
-                          target="_blank"
-                        >
-                          read
-                        </a>
-                      </div>
-                    </div>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -733,6 +668,39 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5>
+                      <div class="row">
+                        <p style={{ textDecoration: "none" }} class="body">
+                          Sit. Rep.
+                        </p>
+                      </div>
+                      <div class="row">
+                        <div class="col">
+                          <a
+                            target="_blank"
+                            href="https://docs.google.com/document/d/1EEOYvFSUqOukJ3gXSGkqozgZIH-vwCh4uym7j79S7dQ/edit?usp=sharing"
+                            style={{ textDecoration: "none" }}
+                          >
+                            Short
+                          </a>
+                        </div>
+                        <div class="col">
+                          <a
+                            target="_blank"
+                            href="https://docs.google.com/document/d/1SvPBkykAH6YYeEImjDUsDMvYsXby7-RnAUSKcz_Sw0E/edit?usp=sharing"
+                            style={{ textDecoration: "none" }}
+                          >
+                            Long
+                          </a>
+                        </div>
+                      </div>
+                    </h5>
+                  </div>
+                </div>
+              </div>
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -755,7 +723,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-              
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -912,24 +880,28 @@ class words extends Component {
               </div>
               <div class="col">
                 <div class="card h-100 border-light">
-                <div class="card-header border-light">
-Western University                  </div>
-                <div class="card-body">
-
-                  <h5
-       
-                  >
-                    <a
-                      target="_blank"
-                      href="https://drive.google.com/file/d/1t3b-voXs8QQvjW_HKpN6-ia1YWOTY-Dw/view?usp=sharing"
-                      style={{ textDecoration: "none" }}
-                    >
-                      The Tumultuous Journey of Detroit's Big Three Automakers
-                      Through the Great Recession and COVID-19 Pandemic
-                    </a>
-                  </h5>
+                  <div class="card-header border-light">
+                    Western University{" "}
                   </div>
-
+                  <div class="card-body">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
+                      <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1t3b-voXs8QQvjW_HKpN6-ia1YWOTY-Dw/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        The Tumultuous Journey of Detroit's Big Three Automakers
+                        Through the Great Recession and COVID-19 Pandemic
+                      </a>
+                    </h5>
+                  </div>
                 </div>
               </div>
               <div class="col">
@@ -938,7 +910,6 @@ Western University                  </div>
                     Trinity College School
                   </div>
                   <div class="card-body">
-                    <h5 class="card-title"></h5>
                     <p class="body">
                       Head Prefects' Address to our graduating class, parents,
                       and faculty.
