@@ -50,14 +50,14 @@ class Navbarclass extends Component {
                 </Nav.Link>
               </Nav>
 
-
               <Nav className="navbarwords">
                 <Nav.Link
                   className="navbarwords"
                   target="_blank"
                   href="https://photos.app.goo.gl/TNdtNdqFCtQJDcJ49"
                 >
-SIGHTS                </Nav.Link>
+                  SIGHTS{" "}
+                </Nav.Link>
               </Nav>
 
               <Nav className="navbarwords">
@@ -87,7 +87,7 @@ SIGHTS                </Nav.Link>
           centered
           className="custom-modal"
         >
-          <Modal.Header >
+          <Modal.Header>
             <Modal.Title>Contact</Modal.Title>
           </Modal.Header>
           <Modal.Body>
