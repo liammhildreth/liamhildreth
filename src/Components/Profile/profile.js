@@ -4,6 +4,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import sex from '../../sex.jpg'
 import caucasian from '../../caucasian.jpg'
 import partner from '../../partner.jpg'
+import liberty from '../../liberty.jpg'
+
 
 class profile extends Component {
   state = {
@@ -19,7 +21,7 @@ class profile extends Component {
     const { index } = this.state;
 
     const images = [
-      partner, sex, caucasian
+      partner, sex, caucasian, liberty
     ];
 
     const prevIcon = (
