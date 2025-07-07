@@ -89,7 +89,7 @@ class profile extends Component {
             <br />
             <br />
             <br />
-            Master of rhetoric – warrior of righteousness.
+            Warrior of righteousness.
           </p>
     
         </div>
