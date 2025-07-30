@@ -681,7 +681,7 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://docs.google.com/document/d/1_P9ehaofQgaUBfGXiui2csVuEiV9SRzjWCrTprQJ1n4/edit?usp=sharing"
+                        href="https://docs.google.com/document/d/1lD2eO78MDHiVNtSGm8FyDtjTHzb71kdmnmzlnk10eWY/edit?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
                         me &lt; restart
