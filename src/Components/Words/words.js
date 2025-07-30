@@ -684,7 +684,7 @@ class words extends Component {
                         href="https://docs.google.com/document/d/1lD2eO78MDHiVNtSGm8FyDtjTHzb71kdmnmzlnk10eWY/edit?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        me &lt; restart
+                        me &gt; restart
                       </a>
                     </h5>
                   </div>
