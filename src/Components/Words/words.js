@@ -668,7 +668,7 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
-                        <div class="col">
+              <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
                     <h5
@@ -684,7 +684,7 @@ class words extends Component {
                         href="https://docs.google.com/document/d/1_P9ehaofQgaUBfGXiui2csVuEiV9SRzjWCrTprQJ1n4/edit?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
-                        Petition to End Poor Leadership
+                        me &lt; restart
                       </a>
                     </h5>
                   </div>
