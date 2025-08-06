@@ -23,7 +23,6 @@ class Navbarclass extends Component {
   handleCloseRhetoricModal() {
     this.setState({ showRhetoricModal: false });
   }
-
   render() {
     return (
       <>
