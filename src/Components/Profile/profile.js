@@ -1,81 +1,16 @@
 import React, { Component } from "react";
 import { Carousel, Container, Modal } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import sex from '../../sex.jpg'
-import caucasian from '../../caucasian.jpg'
-import partner from '../../partner.jpg'
-import liberty from '../../liberty.jpg'
-import power from '../../power.jpg'
-
+import sex from "../../sex.jpg";
+import caucasian from "../../caucasian.jpg";
+import partner from "../../partner.jpg";
+import liberty from "../../liberty.jpg";
+import power from "../../power.jpg";
 
 class profile extends Component {
-  state = {
-    index: 0, // Controls carousel
-  };
-
-  handleSelect = (selectedIndex) => {
-    this.setState({ index: selectedIndex });
-  };
 
 
   render() {
-    const { index } = this.state;
-
-    const images = [
-      partner, sex, caucasian, liberty, power
-    ];
-
-    const prevIcon = (
-      <span
-        style={{
-          display: 'inline-block',
-          width: '30px',
-          height: '30px',
-          textAlign: 'center',
-          lineHeight: '30px',
-          textDecoration: 'none',
-          verticalAlign: 'middle',
-        }}
-      >
-        <svg
-          width="20"
-          height="20"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="#000000"
-          strokeWidth="2"
-          style={{ verticalAlign: 'middle' }}
-        >
-          <path d="M15 18l-6-6 6-6" />
-        </svg>
-      </span>
-    );
-
-    const nextIcon = (
-      <span
-        style={{
-          display: 'inline-block',
-          width: '30px',
-          height: '30px',
-          textAlign: 'center',
-          lineHeight: '30px',
-          textDecoration: 'none',
-          verticalAlign: 'middle',
-        }}
-      >
-        <svg
-          width="20"
-          height="20"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="#000000"
-          strokeWidth="2"
-          style={{ verticalAlign: 'middle' }}
-        >
-          <path d="M9 18l6-6-6-6" />
-        </svg>
-      </span>
-    );
 
     return (
       <Container
@@ -92,30 +27,14 @@ class profile extends Component {
             <br />
             Warrior of righteousness.
           </p>
-    
         </div>
         <div className="w-100" style={{ maxWidth: "1000px" }}>
-          <Carousel
-            activeIndex={index}
-            onSelect={this.handleSelect}
-            interval={null}
-            prevIcon={prevIcon}
-            nextIcon={nextIcon}
-          >
-            {images.map((image, idx) => (
-              <Carousel.Item key={idx}>
-                <img
-                  className="d-block w-100"
-                  src={image}
-                  style={{ height: "600px", objectFit: "scale-down" }}
-                />
-            
-              </Carousel.Item>
-            ))}
-          </Carousel>
+          <img
+            className="d-block w-100"
+            src={power}
+            style={{ height: "600px", objectFit: "scale-down" }}
+          />
         </div>
-
-
       </Container>
     );
   }
