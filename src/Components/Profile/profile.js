@@ -5,6 +5,7 @@ import sex from '../../sex.jpg'
 import caucasian from '../../caucasian.jpg'
 import partner from '../../partner.jpg'
 import liberty from '../../liberty.jpg'
+import power from '../../power.jpg'
 
 
 class profile extends Component {
@@ -21,7 +22,7 @@ class profile extends Component {
     const { index } = this.state;
 
     const images = [
-      partner, sex, caucasian, liberty
+      partner, sex, caucasian, liberty, power
     ];
 
     const prevIcon = (
