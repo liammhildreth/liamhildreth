@@ -703,28 +703,6 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://docs.google.com/document/d/1R679Q1HefT1QF6lKwNqDvSldaqmWWs1d7XBcw2GmD9o/edit?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Eric Schmidt's Mirror
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
                         href="https://docs.google.com/document/d/1lD2eO78MDHiVNtSGm8FyDtjTHzb71kdmnmzlnk10eWY/edit?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
