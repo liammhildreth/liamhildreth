@@ -668,6 +668,28 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
+                     <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 100,
+                      }}
+                    >
+                      <a
+                        target="_blank"
+                        href="https://drive.google.com/file/d/1Hpfak0m4Sl_uN-XdhINAAk6guM3Vbqtg/view?usp=sharing"
+                        style={{ textDecoration: "none" }}
+                      >
+                        #Freda
+                      </a>
+                    </h5>
+                  </div>
+                </div>
+              </div>
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
