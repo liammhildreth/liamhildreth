@@ -790,28 +790,7 @@ class words extends Component {
                 </div>
               </div>
 
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1NQ0dlUcXnT8-GIrl5ZCDxq6UpXVPfpkm/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Invoice
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
