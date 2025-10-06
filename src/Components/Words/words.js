@@ -17,54 +17,156 @@ class words extends Component {
 
         <div className="row">
           <div className="col-12 col-md-6 pe-4 border-right border-md">
-            <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
-              <div class="col">
-                <div class="card">
-                  <img
-                    src={breath}
-                    class="card-img-top"
-                    width={100}
-                    height={200}
-                    alt="..."
-                  ></img>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card">
-                  <img
-                    src={gods}
-                    class="card-img-top"
-                    width={100}
-                    height={200}
-                    alt="..."
-                  ></img>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card">
-                  <img
-                    src={lecture}
-                    class="card-img-top"
-                    width={100}
-                    height={200}
-                    alt="..."
-                  ></img>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card">
-                  <img
-                    src={msfm}
-                    class="card-img-top"
-                    width={100}
-                    height={200}
-                    alt="..."
-                  ></img>
-                </div>
-              </div>
-            </div>
-            <br />
             <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 g-4">
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://www.goodreads.com/book/show/25899336-when-breath-becomes-air"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        When Breath Becomes Air
+                      </a>
+                    </h5>
+                    <p class="body">By Paul Kalanithi</p>
+                  </div>
+                </div>
+              </div>
+                           <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://www.goodreads.com/book/show/168642.In_Cold_Blood"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        In Cold Blood
+                      </a>
+                    </h5>
+                    <p class="body">By Truman Capote</p>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Man's Search for Meaning
+                      </a>
+                    </h5>
+                    <p class="body">By Viktor E. Frankl</p>
+                  </div>
+                </div>
+              </div>
+ 
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://www.goodreads.com/book/show/5129.Brave_New_World"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Brave New World
+                      </a>
+                    </h5>
+                    <p class="body">By Aldous Huxley</p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://www.goodreads.com/book/show/128429.Against_the_Gods"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        Against the Gods
+                      </a>
+                    </h5>
+                    <p class="body">By Peter L. Bernstein</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card h-100 border-light">
+                  <div class="card-body">
+                    <h5
+                      class="card-title"
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        height: 45,
+                      }}
+                    >
+                      <a
+                        href="https://www.goodreads.com/book/show/40611510-the-last-lecture"
+                        style={{ textDecoration: "none" }}
+                        target="_blank"
+                      >
+                        The Last Lecture
+                      </a>
+                    </h5>
+                    <p class="body">By Randy Pausch</p>
+                  </div>
+                </div>
+              </div>
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -130,7 +232,7 @@ class words extends Component {
                         style={{ textDecoration: "none" }}
                         target="_blank"
                       >
-                        Letter From Birmingham Jail
+                        Letter From a Birmingham Jail
                       </a>
                     </h5>
                     <p class="body">By Martin Luther King Jr.</p>
@@ -668,7 +770,7 @@ class words extends Component {
           </div>
           <div className="col-12 col-md-6 ps-4 border-left">
             <div class="row row-cols-1  row-cols-lg-2  g-4">
-                     <div class="col">
+              <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
                     <h5
@@ -789,7 +891,6 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-
 
               <div class="col">
                 <div class="card h-100 border-light">
