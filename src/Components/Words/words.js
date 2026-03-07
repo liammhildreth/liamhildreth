@@ -783,7 +783,7 @@ class words extends Component {
                     >
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/14xHPV0i4I0IvEXL8T7uQBSTmHbPySwOa/view?usp=sharing"
+                        href="https://docs.google.com/document/d/1TFO8taWhxb5wYoz2SMWFsVfYPCBlASpwMWN9Eumy4O0/edit?usp=sharing"
                         style={{ textDecoration: "none" }}
                       >
                         The Holy Grail
