@@ -42,7 +42,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-                           <div class="col">
+              <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
                     <h5
@@ -66,7 +66,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-              
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -91,7 +91,7 @@ class words extends Component {
                   </div>
                 </div>
               </div>
- 
+
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
@@ -116,7 +116,6 @@ class words extends Component {
                   </div>
                 </div>
               </div>
-
 
               <div class="col">
                 <div class="card h-100 border-light">
@@ -795,50 +794,6 @@ class words extends Component {
               <div class="col">
                 <div class="card h-100 border-light">
                   <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://docs.google.com/document/d/1P1W2qp1DepZD2ywuQ69SPaQCTzzIBSM-kxcU7WYd6lk/edit?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Restraining Order for Eric Schmidt and Marc Andreessen
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://docs.google.com/document/d/1lD2eO78MDHiVNtSGm8FyDtjTHzb71kdmnmzlnk10eWY/edit?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Nirvana
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
                     <h5>
                       <div class="row">
                         <p style={{ textDecoration: "none" }} class="body">
@@ -888,260 +843,6 @@ class words extends Component {
                         Chess
                       </a>
                     </h5>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1Sed4X--VVtxu4Z9lHIVF3kPJeiKcjyAE/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Letter to Santa
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/18d32g2rIelmlDHIxgc0XGqO93C0TfQdp/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Freedom of Soul
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1RTxi7lIxPg_ilvUBOct3K9nk1uyyEEfH/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        To the Prime Minister
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1xPToGCADWr2dJsVaMMBwcbP_Yfkjz10v/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Capella
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1xcfxPE_8R0T4Rh97Y9jxK3NutZAT61TO/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        The Game of Ideas
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1hhiwti2i3WohOn2cb2kq8lqUY00RkON6/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        The Game of Fingers
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-header border-light">
-                    Western University{" "}
-                  </div>
-                  <div class="card-body">
-                    <h5
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        height: 100,
-                      }}
-                    >
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1t3b-voXs8QQvjW_HKpN6-ia1YWOTY-Dw/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        The Tumultuous Journey of Detroit's Big Three Automakers
-                        Through the Great Recession and COVID-19 Pandemic
-                      </a>
-                    </h5>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-header border-light">
-                    Trinity College School
-                  </div>
-                  <div class="card-body">
-                    <p class="body">
-                      Head Prefects' Address to our graduating class, parents,
-                      and faculty.
-                    </p>
-                    <div class="row">
-                      <div class="col">
-                        <a
-                          target="_blank"
-                          href="https://drive.google.com/file/d/1m_M1ogfmv6etTJvbL---UX93VwLvk0Kp/view?usp=sharing"
-                          style={{ textDecoration: "none" }}
-                        >
-                          read
-                        </a>
-                      </div>
-                      <div class="col">
-                        <a
-                          target="_blank"
-                          href="https://www.youtube.com/watch?v=WLuPZiyE4Rk"
-                          style={{ textDecoration: "none" }}
-                        >
-                          watch
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-header border-light">
-                    Trinity College School
-                  </div>
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1lRCemf_RlOKtIi3AGKfGZZqksBXSQtQP/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Yowl
-                      </a>
-                    </h5>
-                    <p class="body">
-                      A poem for grade 12 english aiming to beat the drum of
-                      Howl by Allen Ginsberg.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-header border-light">
-                    Trinity College School
-                  </div>
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/19jZMAXso3YVrTOFe28RAhvKPLDLtKxXW/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        Corruption Within FIFA: the Qatar 2022 ‘Winter’ World
-                        Cup
-                      </a>
-                    </h5>
-                    <p class="body">Final paper for grade 12 kinesiology. </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col">
-                <div class="card h-100 border-light">
-                  <div class="card-header border-light">
-                    Trinity College School
-                  </div>
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      <a
-                        target="_blank"
-                        href="https://drive.google.com/file/d/1OEXBnvgYgdkwzkuOUBKFjq1qG5gnBrpm/view?usp=sharing"
-                        style={{ textDecoration: "none" }}
-                      >
-                        TCS ad
-                      </a>
-                    </h5>
-                    <p class="body">A grade 12 business project. </p>
                   </div>
                 </div>
               </div>
