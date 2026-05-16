@@ -53,25 +53,16 @@ class Navbarclass extends Component {
                   target="_blank"
                   href="https://photos.app.goo.gl/TNdtNdqFCtQJDcJ49"
                 >
-                  SIGHTS{" "}
+                  SIGHTS
                 </Nav.Link>
               </Nav>
 
-              <Nav className="navbarwords">
-                <Nav.Link className="navbarwords" href="/profile">
-                  <img width="47px" src={Butterfly} alt="Profile" />
-                </Nav.Link>
-              </Nav>
               <Nav className="navbarwords">
                 <Nav.Link
                   className="navbarwords"
                   onClick={this.handleShowRhetoricModal}
                 >
-                  <ImPhoneHangUp
-                    size={30}
-                    className="rhetoric-icon"
-                    style={{ cursor: "pointer" }}
-                  />
+                  <img width="47px" src={Butterfly} alt="Profile" />
                 </Nav.Link>
               </Nav>
             </Navbar.Collapse>
@@ -84,16 +75,9 @@ class Navbarclass extends Component {
           centered
           className="custom-modal"
         >
-          <Modal.Header>
-            <Modal.Title>Contact</Modal.Title>
-          </Modal.Header>
           <Modal.Body>
-            <p>
-              <strong>Email:</strong> liam.hildreth@gmail.com
-            </p>
-            <p>
-              <strong>Phone:</strong> (289) 356-4949
-            </p>
+            <p>liam.hildreth@gmail.com</p>
+            <p>(289) 356-4949</p>
             <p>Port Hope, Ontario, Canada</p>
           </Modal.Body>
         </Modal>
