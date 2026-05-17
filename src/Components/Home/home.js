@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./Home.css";
 import Butterfly from "../../Butterfly.png"
 
 class Home extends Component {
