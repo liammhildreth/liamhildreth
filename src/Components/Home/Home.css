@@ -1,0 +1,10 @@
+.home-text {
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 0 4vw; /* Small breathing room on the left and right edges */
+  
+  /* Scales smoothly from 32px on small phones up to ~8.5vw on wide desktops */
+  font-size: clamp(32px, 8.2vw, 160px);
+  line-height: 1.1;
+}
