@@ -7,4 +7,5 @@
   /* Scales smoothly from 32px on small phones up to ~8.5vw on wide desktops */
   font-size: clamp(32px, 8.2vw, 160px);
   line-height: 1.1;
+  font-family: 'Cormorant Garamond', serif;
 }
