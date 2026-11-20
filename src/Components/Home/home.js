@@ -7,7 +7,7 @@ class Home extends Component {
     return (
       <div className="d-flex justify-content-center align-items-center min-vh-100 w-100">
         <p className="home-text">
-          Morph into rapture.
+          Evolve into rapture.
         </p>
       </div>
     );
